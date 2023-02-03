@@ -5,6 +5,8 @@ Data's true power is its ability to definitively answer questions. So, let's tak
 
 Now, we know what you may be thinking: “That’s obvious. It gets hotter.” But, if pressed for more information, how would you prove that?
 
+
+
 ## Before You Begin
 Create a new repository for this project called python-api-challenge. Do not add this homework to an existing repository.
 
